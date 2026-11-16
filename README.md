@@ -1,119 +1,99 @@
 # 🎓 Works-of-college
 
-A collection of my college programming assignments, Data Structures and Algorithms implementations, practice programs, experiments, and personal projects.
+A collection of my college assignments, programming practice, Data Structures and Algorithms implementations, experiments, and projects.
 
-This repository documents my programming journey as I learn, practice, and build projects using different programming languages and technologies.
+This repository documents my programming journey as I learn, practice, experiment, and build projects using different programming languages and technologies.
 
-## 📂 Contents
+## 📂 Repository Contents
 
-This repository contains programs and projects related to:
+The repository contains programs and projects related to:
 
-### 💻 Programming
+- 💻 Programming Fundamentals
+- 🧠 Data Structures & Algorithms
+- 📝 College Assignments
+- 🧪 Programming Experiments
+- 🚀 Personal Projects
+- 🎨 Creative & Interactive Programs
 
-- C Programming
-- Python
-- JavaScript
-- Programming fundamentals
-- Problem-solving
-- Practice programs
+More programs, categories, and projects will be added as I continue learning.
 
-### 🧠 Data Structures & Algorithms
+## 💻 Programming Languages
 
-- Linked Lists
-- Loops and functions
-- Pointers
-- Dynamic memory allocation
-- Algorithms
-- DSA practice and implementations
+The repository may contain programs written in different languages, including:
 
-### 🎨 Programming Experiments
-
-The repository may also contain creative and experimental programs such as:
-
-- Animations
-- Graphical programs
-- Interactive experiments
-- Small programming projects
-
-More categories and projects will be added as I continue learning.
-
-## 📚 Topics Covered
-
-- Programming Fundamentals
 - C
 - Python
 - JavaScript
-- Data Structures
-- Algorithms
-- DSA
-- Problem Solving
-- Object-Oriented Programming
+- Java
+- And other languages as I continue learning
+
+## 🧠 Data Structures & Algorithms
+
+Some of the concepts practiced in this repository include:
+
+- Linked Lists
+- Loops and Functions
 - Pointers
-- Functions
-- Loops
 - Dynamic Memory Allocation
-- File Handling
-- Programming Experiments
+- Algorithms
+- Problem Solving
+- Data Structures
+- DSA Implementations
 
-## 📁 Repository Structure
+## 🎨 Experiments & Projects
 
-The repository will continue to grow as new programs and projects are added.
+Along with college assignments and DSA programs, this repository may also contain experimental and creative projects such as:
 
-```text
-Works-of-college/
-│
-├── C-Programs/
-├── Python-Programs/
-├── JavaScript/
-├── DSA/
-├── Projects/
-├── Experiments/
-│
-└── README.md
-```
+- Animations
+- Graphical programs
+- Interactive programs
+- Small applications
+- Programming experiments
+- Personal projects
 
-> The actual folder structure may change as the repository grows.
 
 ## 🎯 Purpose
 
-This repository is a collection of my work throughout my college programming journey.
+This repository represents my programming journey throughout college.
 
 It is used for:
 
 - College assignments
-- DSA practice
-- Learning programming languages
-- Practicing problem-solving
-- Building small projects
+- Learning programming fundamentals
+- Practicing Data Structures and Algorithms
+- Improving problem-solving skills
 - Experimenting with new ideas
-- Documenting my progress as a programmer
+- Building small projects
+- Exploring different programming languages
+- Documenting my progress
 
-New programs, experiments, and projects will be added over time.
+## 🚀 Future Plans
 
-## 🛠️ Technologies
+This repository will continue to grow as I learn and build more.
 
-This repository may contain projects using different languages and technologies, including:
+Future additions may include:
+
+- More C programs
+- Python programs and projects
+- JavaScript experiments
+- Java programs
+- More DSA implementations
+- College assignments
+- Larger personal projects
+- Creative programming experiments
+- New programming languages and technologies
+
+## 🛠️ Tools & Technologies
+
+Depending on the project, this repository may use:
 
 - C
 - Python
 - JavaScript
+- Java
 - Git
 - GitHub
-- And more as I continue learning
-
-## 🚀 Future Plans
-
-This repository will continue to evolve with my learning journey.
-
-I plan to add:
-
-- More college assignments
-- More DSA implementations
-- Python projects
-- JavaScript experiments
-- New programming languages
-- Larger personal projects
-- New experiments and ideas
+- VS Code
 
 ## 👨‍💻 Author
 
